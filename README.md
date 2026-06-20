@@ -1,8 +1,5 @@
 <!-- HEADER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:7B2FFF&amp;height=250&amp;section=header&amp;text=GANESH%20NADKARNI&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=58&amp;descSize=17&amp;descColor=00D9FF" width="100%">
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=GANESH%20NADKARNI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=00D9FF)
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -44,7 +41,7 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="200" alt="coding gif">
 
 ```yaml
 Name        : Ganesh Nadkarni
