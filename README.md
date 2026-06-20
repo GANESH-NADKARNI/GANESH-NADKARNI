@@ -42,7 +42,7 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="288" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" height="220" alt="coding gif"/>
 
 ```yaml
 Name        : Ganesh Nadkarni
@@ -52,7 +52,7 @@ CGPA        : 8.98  |  Year: 2nd (2024–2028)
 
 Focus Areas :
   - AI / ML Engineering
-  - Full-Stack Development
+  - Backend Development
   - Computer Vision
   - LLM Applications
 
