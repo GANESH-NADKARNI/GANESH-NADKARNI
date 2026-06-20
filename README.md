@@ -60,7 +60,7 @@ Focus Areas :
   - LLM Applications
 
 Currently   : Shipping AI-powered products 🚀
-Ask Me About: FastAPI · PyTorch · Gemini API · React
+Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ```
 
 <br clear="right"/>
@@ -139,7 +139,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · React
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Keras](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
