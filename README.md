@@ -1,9 +1,5 @@
 <!-- HEADER -->
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=GANESH%20NADKARNI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=00D9FF)
-
-</div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
