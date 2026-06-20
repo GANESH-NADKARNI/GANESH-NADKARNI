@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=GANESH%20NADKARNI&fontSize=60&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D9FF,100:7B2FFF&amp;height=250&amp;section=header&amp;text=GANESH%20NADKARNI&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=58&amp;descSize=17&amp;descColor=00D9FF" width="100%">
 
 </div>
 
