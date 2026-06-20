@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🤖+Building+AI+that+solves+real+problems;🧠+Deep+Learning+%7C+Computer+Vision+%7C+LLMs;🚀+Turning+ideas+into+deployed+products;⚡+2nd+Year+CSE+%40+KLS+GIT+—+CGPA%3A+8.98)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=%F0%9F%A4%96+Building+AI+that+solves+real+problems%3B%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+LLMs%3B%F0%9F%9A%80+Turning+ideas+into+deployed+products%3B%E2%9A%A1+2nd+Year+CSE+%40+KLS+GIT+%E2%80%94+CGPA%3A+8.98)](https://git.io/typing-svg)
 
 </div>
 
