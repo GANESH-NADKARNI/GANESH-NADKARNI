@@ -86,6 +86,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 <div align="center">
 
+<img src="https://leetcard.jacoblin.cool/GANESH_NADKARNI?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" width="55%"/>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=GANESH_NADKARNI&theme=dark" width="55%"/>
 
 </div>
