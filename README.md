@@ -96,8 +96,12 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 </div>
 
+
+<br clear="right"/>
+
 ---
 
+<!-- STATS -->
 <!-- PROJECTS -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/> Featured Projects
 
