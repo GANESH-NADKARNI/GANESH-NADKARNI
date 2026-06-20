@@ -95,6 +95,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 🔥 **271 problems solved** &nbsp;|&nbsp; 172 Easy &nbsp;·&nbsp; 85 Medium &nbsp;·&nbsp; 14 Hard &nbsp;|&nbsp; Max Streak: **132 days** &nbsp;|&nbsp; 🏅 **100 Days Badge 2026**
 
 </div>
+
 ---
 
 <!-- PROJECTS -->
