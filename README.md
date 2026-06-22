@@ -117,7 +117,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 |---|---|
 | Full-Stack AI Interview Simulator | Real-Time Computer Vision Safety System |
 | React 18 · Node.js · Groq Llama 3.3 70B · Docker | Python · YOLOv8 · OpenCV · EasyOCR |
-| [**🔗 Live Demo**](https://interview-sim-frontend.onrender.com) · Aptitude + DSA + HR modes | Frame capture → detection → plate extraction → logging |
+| [**🔗 Live Demo**]( https://interview-simulator-eight-henna.vercel.app/) · Aptitude + DSA + HR modes | Frame capture → detection → plate extraction → logging |
 
 </div>
 
