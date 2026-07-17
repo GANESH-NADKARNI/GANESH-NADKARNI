@@ -68,11 +68,11 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <!-- STATS -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-xl-ashy-26.vercel.app/api?username=GANESH-NADKARNI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-xi-ashy-26.vercel.app/api?username=GANESH-NADKARNI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues&hide_rank=true&border_radius=12" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-xl-ashy-26.vercel.app/api/top-langs/?username=GANESH-NADKARNI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats-xi-ashy-26.vercel.app/api/top-langs/?username=GANESH-NADKARNI&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&border_radius=12" height="180"/>
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=GANESH-NADKARNI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=GANESH-NADKARNI&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=7B2FFF&currStreakNum=00D9FF&dates=8B8FA3&border_radius=12" width="55%"/>
 </div>
 
 ---
