@@ -74,7 +74,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <br/><br/>
 <img src="https://github-readme-streak-stats-alpha-brown.vercel.app?user=GANESH-NADKARNI&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=7B2FFF&currStreakNum=00D9FF&dates=8B8FA3&sideLabels=8B8FA3&border_radius=12" width="55%"/>
 </div>
-<br/>
+
 
 ---
 
