@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=GANESH%20NADKARNI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00D9FF&width=1500)
 
@@ -181,6 +180,34 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 | Introduction to Cloud Computing | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/TO8ASSG7Y486) |
 | Curve Fitting Onramp | MathWorks | [Verify](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=6e846ca9-9612-4773-a9c1-a37d9dfa359c) |
 | Build Your Own Generative AI Model | NxtWave | Dec 2024 |
+
+</div>
+
+---
+
+<!-- RESEARCH & PUBLICATIONS -->
+## 📄 Research & Publications
+
+<div align="center">
+
+| 📝 Title | 🏛️ Conference | 📌 Status |
+|---|---|---|
+| Comparative Study of AI Models for Natural Language to SQL Query Generation | 6th International Conference on Intelligent Technologies (CONIT 2026) | Accepted for presentation · Publication in proceedings under process |
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS -->
+## 🌟 Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 🏢 Awarded By | 📅 Date |
+|---|---|---|
+| Letter of Appreciation — Technical Excellence & Innovation in AI/NLP | Dean (Academics), KLS Gogte Institute of Technology | 2025 |
+| Open Source Contributor — Documentation improvements via pull requests | Microsoft Open Source Projects | — |
+| 210+ DSA Problems Solved, 100+ Day Coding Streak | LeetCode | — |
 
 </div>
 
