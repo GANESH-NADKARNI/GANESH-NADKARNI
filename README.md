@@ -206,8 +206,8 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 | 🏆 Achievement | 🏢 Awarded By | 📅 Date |
 |---|---|---|
 | Letter of Appreciation — Technical Excellence & Innovation in AI/NLP | Dean (Academics), KLS Gogte Institute of Technology | 2025 |
-| Open Source Contributor — Documentation improvements via pull requests | Microsoft Open Source Projects | — |
-| 210+ DSA Problems Solved, 100+ Day Coding Streak | LeetCode | — |
+| Open Source Contributor — Documentation improvements via pull requests | Microsoft Open Source Projects | 2026 |
+| 300+ DSA Problems Solved, 150+ Day Coding Streak | LeetCode | Present |
 
 </div>
 
