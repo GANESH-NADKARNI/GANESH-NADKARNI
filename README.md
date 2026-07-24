@@ -71,7 +71,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-xi-ashy-26.vercel.app/api/top-langs/?username=GANESH-NADKARNI&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&border_radius=12" height="180"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats-alpha-brown.vercel.app?user=GANESH-NADKARNI&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=7B2FFF&currStreakNum=00D9FF&dates=8B8FA3&sideLabels=8B8FA3&border_radius=12" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=GANESH-NADKARNI&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=7B2FFF&currStreakNum=00D9FF&dates=8B8FA3&sideLabels=8B8FA3&border_radius=12" width="55%"/>
 </div>
 
 
