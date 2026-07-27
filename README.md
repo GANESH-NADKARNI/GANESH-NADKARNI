@@ -91,34 +91,16 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <tr>
 <td align="center">
 
-<a href="https://github.com/NotHarshhaa/DevOps-Projects">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=NotHarshhaa&repo=NotHarshhaa/DevOps-Projects&show_owner=true&theme=transparent" width="100%" />
+<a href="https://github.com/GANESH-NADKARNI/Interview_simulator">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/Interview_simulator&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=NotHarshhaa&repo=NotHarshhaa/DevOps-Interview-Questions&show_owner=true&theme=transparent" width="100%" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/NotHarshhaa/into-the-devops">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=NotHarshhaa&repo=NotHarshhaa/into-the-devops&show_owner=true&theme=transparent" width="100%" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/NotHarshhaa/kubernetes-learning-path">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=NotHarshhaa&repo=NotHarshhaa/kubernetes-learning-path&show_owner=true&theme=transparent" width="100%" />
+<a href="https://github.com/GANESH-NADKARNI/violawatch">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/violawatch&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -127,16 +109,34 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <tr>
 <td align="center">
 
-<a href="https://github.com/NotHarshhaa/AWS-Projects">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=NotHarshhaa&repo=NotHarshhaa/AWS-Projects&show_owner=true&theme=transparent" width="100%" />
+<a href="https://github.com/GANESH-NADKARNI/civic-complaint-system">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/civic-complaint-system&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://gist.github.com/NotHarshhaa/854ed5c12fff07acde88faf95b9decff">
-<img src="https://github-stats-extended.vercel.app/api/gist?id=854ed5c12fff07acde88faf95b9decff&show_owner=true&theme=transparent" width="100%" />
+<a href="https://github.com/GANESH-NADKARNI/Rag_Docmind">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/Rag_Docmind&show_owner=true&theme=transparent" width="100%" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/GANESH-NADKARNI/SheCares">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/SheCares&show_owner=true&theme=transparent" width="100%" />
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/GANESH-NADKARNI/AQI-Navigation">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/AQI-Navigation&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
