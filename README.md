@@ -64,8 +64,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 ---
 
-<!-- STATS -->
-# 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Statistics
 
 <div align="center">
 
