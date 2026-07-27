@@ -90,9 +90,11 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <tr>
 <td align="center">
 
-<a href="https://interview-simulator-eight-henna.vercel.app/">
+<a href="https://github.com/GANESH-NADKARNI/Interview_simulator">
 <img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/Interview_simulator&show_owner=true&theme=transparent" width="100%" />
 </a>
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white)](https://interview-simulator-eight-henna.vercel.app/)
 
 </td>
 
