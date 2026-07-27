@@ -70,15 +70,15 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 <table>
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
-<a href="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
-<img src="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues&theme=transparent" width="100%" />
 </a>
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=GANESH-NADKARNI&layout=compact&langs_count=4&hide_values=true&theme=transparent">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GANESH-NADKARNI&layout=compact&langs_count=4&hide_values=true&theme=transparent" width="100%" />
@@ -86,7 +86,6 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
