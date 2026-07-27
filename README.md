@@ -73,16 +73,16 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <tr>
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=NotHarshhaa&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
-<img src="https://github-stats-extended.vercel.app/api?username=NotHarshhaa&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=NotHarshhaa&layout=compact&langs_count=4&hide_values=true&theme=transparent">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=NotHarshhaa&layout=compact&langs_count=4&hide_values=true&theme=transparent" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=GANESH-NADKARNI&layout=compact&langs_count=4&hide_values=true&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=GANESH-NADKARNI&layout=compact&langs_count=4&hide_values=true&theme=transparent" width="100%" />
 </a>
 
 </td>
