@@ -91,7 +91,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/Interview_simulator">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/Interview_simulator&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=Interview_simulator&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -99,7 +99,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/violawatch">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/violawatch&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=violawatch&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -109,7 +109,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/civic-complaint-system">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/civic-complaint-system&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=civic-complaint-system&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -117,7 +117,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/Rag_Docmind">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/Rag_Docmind&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=Rag_Docmind&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -127,7 +127,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/SheCares">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/SheCares&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=SheCares&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
@@ -135,7 +135,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/AQI-Navigation">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=GANESH-NADKARNI/AQI-Navigation&show_owner=true&theme=transparent" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=AQI-Navigation&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
