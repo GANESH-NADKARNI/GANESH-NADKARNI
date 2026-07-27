@@ -99,7 +99,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <td align="center">
 
 <a href="https://github.com/GANESH-NADKARNI/violawatch">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=violawatch&show_owner=true&theme=transparent" width="100%" height = "100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=GANESH-NADKARNI&repo=violawatch&show_owner=true&theme=transparent" width="100%" />
 </a>
 
 </td>
