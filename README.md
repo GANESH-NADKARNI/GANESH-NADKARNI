@@ -149,7 +149,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ---
 
 <!-- LEETCODE -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> LeetCode Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> LeetCode Statistics
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 </div>
 <div align="center">
 
-🔥 **271 problems solved** &nbsp;|&nbsp; 172 Easy &nbsp;·&nbsp; 85 Medium &nbsp;·&nbsp; 14 Hard &nbsp;|&nbsp; Max Streak: **132 days** &nbsp;|&nbsp; 🏅 **100 Days Badge 2026**
+🔥 **300+ problems solved** &nbsp;|&nbsp; 170+ Easy &nbsp;·&nbsp; 130+ Medium &nbsp;·&nbsp; 15+ Hard &nbsp;|&nbsp; Max Streak: **150+ days** &nbsp;|&nbsp; 🏅 **100 Days Badge 2026**
 
 </div>
 
