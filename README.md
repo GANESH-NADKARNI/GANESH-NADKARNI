@@ -247,7 +247,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 | Model Context Protocol: Advanced Topics | Anthropic | [Verify](https://verify.skilljar.com/c/7yn8jzaikmzu) |
 | Claude Code in Action | Anthropic | [Verify](https://verify.skilljar.com/c/k8nmuhfvib35) |
 | Google Cloud Fundamentals: Core Infrastructure | Google / Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/76JTIDO6P8IZ) |
-| Introduction to Cloud Computing | IBM /Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/TO8ASSG7Y486) |
+| Introduction to Cloud Computing | IBM /  Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/TO8ASSG7Y486) |
 | Curve Fitting Onramp | MathWorks | [Verify](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=6e846ca9-9612-4773-a9c1-a37d9dfa359c) |
 | Build Your Own Generative AI Model | NxtWave | Dec 2024 |
 
