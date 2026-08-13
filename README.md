@@ -260,9 +260,9 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 <div align="center">
 
-| 📝 Title | 🏛️ Conference | 📌 Status |
-|---|---|---|
-| Comparative Study of AI Models for Natural Language to SQL Query Generation | 6th International Conference on Intelligent Technologies (CONIT 2026) | Presented & Published in IEEE Xplore |
+| 📝 Title | 🏛️ Conference | 📌 Status | 🔗 Paper |
+|---|---|---|---|
+| Comparative Study of AI Models for Natural Language to SQL Query Generation | 6th International Conference on Intelligent Technologies (CONIT 2026) | Presented & Published in IEEE Xplore | [IEEE Xplore](https://ieeexplore.ieee.org/document/11621699) |
 
 </div>
 
