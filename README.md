@@ -72,8 +72,8 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <tr>
 <td align="center" valign="top">
 
-<a href="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=1800">
-<img src="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues&theme=transparent&cache_seconds=1800" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800">
+<img src="https://github-stats-extended.vercel.app/api?username=GANESH-NADKARNI&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" width="100%" />
 </a>
 
 </td>
