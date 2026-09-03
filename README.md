@@ -47,7 +47,7 @@
 ```yaml
 Name        : Ganesh Nadkarni
 Location    : Belagavi, Karnataka, India 🇮🇳
-Education   : B.E. CSE (AI & ML) @ KLS GIT
+Education   : B.E. CSE (AI & ML) @ KLS GIT BELGAVI KARNATAKA
 CGPA        : 9.03 |  Year: 3rd (2024–2028)
 
 Focus Areas :
