@@ -150,8 +150,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ---
 
 <!-- LEETCODE -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — LeetCode 
-
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — LeetCode
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/GANESH_NADKARNI?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" width="55%"/>
