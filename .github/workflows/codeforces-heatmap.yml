@@ -1,0 +1,44 @@
+name: Update Codeforces Heatmap
+
+on:
+  schedule:
+    # Runs once a day at 00:15 UTC
+    - cron: "15 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    paths:
+      - "scripts/generate_cf_heatmap.py"
+      - ".github/workflows/codeforces-heatmap.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CF_HANDLE: GANESH_NADKARNI
+      OUTPUT_PATH: assets/codeforces-heatmap.svg
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate heatmap SVG
+        run: python scripts/generate_cf_heatmap.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add "${OUTPUT_PATH}"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update Codeforces heatmap"
+            git push
+          fi
