@@ -66,7 +66,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Statistics
 
 <div align="center">
 
@@ -174,7 +174,8 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 <div align="center">
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=GANESH_NADKARNI&theme=dark)](https://codeforces.com/profile/GANESH_NADKARNI)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-8-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
+[![Submissions](https://img.shields.io/badge/Submissions-11-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
 
 </div>
 
