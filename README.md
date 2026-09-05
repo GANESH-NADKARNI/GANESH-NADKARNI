@@ -177,6 +177,12 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 [![Problems Solved](https://img.shields.io/badge/Problems_Solved-8-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
 [![Submissions](https://img.shields.io/badge/Submissions-11-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
 
+<br/>
+
+<a href="https://codeforces.com/profile/GANESH_NADKARNI">
+<img src="https://raw.githubusercontent.com/GANESH-NADKARNI/GANESH-NADKARNI/main/assets/codeforces-heatmap.svg" width="100%" alt="Codeforces submission heatmap"/>
+</a>
+
 </div>
 
 ---
