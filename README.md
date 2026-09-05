@@ -151,6 +151,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 <!-- LEETCODE -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — LeetCode
+
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/GANESH_NADKARNI?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" width="55%"/>
@@ -193,10 +194,31 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 [![Hugging Face](https://img.shields.io/badge/View_Full_Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ganesh-Nadkarni)
 
-| 🚀 Spaces | 🧠 Models |
+**🚀 Spaces**
+
+| Space | Description |
 |---|---|
-| [Aqi Predictor Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Aqi-Predictor-Demo) — Predicts next-day AQI using XGBoost | [network-traffic-prediction](https://huggingface.co/Ganesh-Nadkarni/network-traffic-prediction) — Tabular Regression |
-| [Helmet Detection Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Helmet-Detection-Demo) — Detects helmets using a YOLOv8 model | [nl2sql-comparative-study-conit2026](https://huggingface.co/Ganesh-Nadkarni/nl2sql-comparative-study-conit2026) — Table Question Answering |
+| [Aqi Predictor Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Aqi-Predictor-Demo) | Predicts next-day Air Quality Index using XGBoost |
+| [Helmet Detection Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Helmet-Detection-Demo) | Detects helmets in images using a YOLOv8 model |
+
+**🧠 Models**
+
+| Model | Task |
+|---|---|
+| [network-traffic-prediction](https://huggingface.co/Ganesh-Nadkarni/network-traffic-prediction) | Tabular Regression |
+| [nl2sql-comparative-study-conit2026](https://huggingface.co/Ganesh-Nadkarni/nl2sql-comparative-study-conit2026) | Table Question Answering |
+| [aqi-eco-nav-models](https://huggingface.co/Ganesh-Nadkarni/aqi-eco-nav-models) | Tabular Regression |
+| [network-anomaly-detection](https://huggingface.co/Ganesh-Nadkarni/network-anomaly-detection) | Tabular Classification |
+| [helmet-detection-yolov8](https://huggingface.co/Ganesh-Nadkarni/helmet-detection-yolov8) | Object Detection |
+
+**📊 Datasets**
+
+| Dataset | Description |
+|---|---|
+| [lerobot-liquid-pour-task](https://huggingface.co/datasets/Ganesh-Nadkarni/lerobot-liquid-pour-task) | Robotics manipulation dataset — liquid pouring task |
+| [lerobot-pick-place-40-episodes](https://huggingface.co/datasets/Ganesh-Nadkarni/lerobot-pick-place-40-episodes) | Robotics pick-and-place dataset, 40 episodes |
+| [lerobot-pick-place-10-episodes](https://huggingface.co/datasets/Ganesh-Nadkarni/lerobot-pick-place-10-episodes) | Robotics pick-and-place dataset, 10 episodes |
+| [lerobot-plugin-insertion-task](https://huggingface.co/datasets/Ganesh-Nadkarni/lerobot-plugin-insertion-task) | Robotics manipulation dataset — plugin insertion task |
 
 </div>
 
