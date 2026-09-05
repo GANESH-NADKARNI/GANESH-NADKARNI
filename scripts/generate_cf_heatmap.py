@@ -34,7 +34,8 @@ CELL_SIZE = 11
 CELL_GAP = 3
 CELL_STEP = CELL_SIZE + CELL_GAP
 LEFT_MARGIN = 28
-TOP_MARGIN = 20
+TITLE_ROW_HEIGHT = 16
+TOP_MARGIN = 14
 MONTH_LABEL_GAP = 16
 
 DAY_LABELS = {1: "Mon", 3: "Wed", 5: "Fri"}  # Monday=0 ... Sunday=6, we use Sun-start grid below
@@ -133,7 +134,7 @@ def month_label_positions(cells):
 
 def render_svg(cells, total_weeks, max_count, handle):
     width = LEFT_MARGIN + total_weeks * CELL_STEP + 10
-    height = TOP_MARGIN + MONTH_LABEL_GAP + 7 * CELL_STEP + 30
+    height = TITLE_ROW_HEIGHT + TOP_MARGIN + MONTH_LABEL_GAP + 7 * CELL_STEP + 30
 
     parts = []
     parts.append(
@@ -143,19 +144,27 @@ def render_svg(cells, total_weeks, max_count, handle):
     if BG_COLOR != "transparent":
         parts.append(f'<rect width="{width}" height="{height}" fill="{BG_COLOR}"/>')
 
+    # Title row (own line, so it never collides with the month labels below)
+    total_subs = sum(c for *_rest, c in cells)
+    parts.append(
+        f'<text x="{width - 10}" y="{TITLE_ROW_HEIGHT}" font-size="10" fill="{TEXT_COLOR}" '
+        f'text-anchor="end">{handle} · {total_subs} submissions (last {len(cells)//7} weeks)</text>'
+    )
+
     # Month labels
+    month_y = TITLE_ROW_HEIGHT + TOP_MARGIN
     for week_index, label in month_label_positions(cells).items():
         x = LEFT_MARGIN + week_index * CELL_STEP
-        y = TOP_MARGIN
         parts.append(
-            f'<text x="{x}" y="{y}" font-size="10" fill="{TEXT_COLOR}">{label}</text>'
+            f'<text x="{x}" y="{month_y}" font-size="10" fill="{TEXT_COLOR}">{label}</text>'
         )
 
     # Day-of-week labels (Mon/Wed/Fri), grid rows are Sun=0..Sat=6
+    grid_top = TITLE_ROW_HEIGHT + TOP_MARGIN + MONTH_LABEL_GAP
     day_row_labels = {1: "Mon", 3: "Wed", 5: "Fri"}
     for row, label in day_row_labels.items():
         x = 0
-        y = TOP_MARGIN + MONTH_LABEL_GAP + row * CELL_STEP + CELL_SIZE
+        y = grid_top + row * CELL_STEP + CELL_SIZE
         parts.append(
             f'<text x="{x}" y="{y}" font-size="9" fill="{TEXT_COLOR}">{label}</text>'
         )
@@ -163,7 +172,7 @@ def render_svg(cells, total_weeks, max_count, handle):
     # Cells
     for week_index, day_index, date, count in cells:
         x = LEFT_MARGIN + week_index * CELL_STEP
-        y = TOP_MARGIN + MONTH_LABEL_GAP + day_index * CELL_STEP
+        y = grid_top + day_index * CELL_STEP
         level = level_for_count(count, max_count)
         if level == -1:
             fill = EMPTY_FILL
@@ -198,12 +207,6 @@ def render_svg(cells, total_weeks, max_count, handle):
         lx += CELL_STEP
     parts.append(
         f'<text x="{lx + 4}" y="{legend_y + 9}" font-size="9" fill="{TEXT_COLOR}">More</text>'
-    )
-
-    total_subs = sum(c for *_rest, c in cells)
-    parts.append(
-        f'<text x="{width - 10}" y="{TOP_MARGIN}" font-size="10" fill="{TEXT_COLOR}" '
-        f'text-anchor="end">{handle} · {total_subs} submissions (last {len(cells)//7} weeks)</text>'
     )
 
     parts.append("</svg>")
