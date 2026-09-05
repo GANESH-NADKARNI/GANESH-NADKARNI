@@ -15,6 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-nadkarni-517a80326/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/GANESH_NADKARNI/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ganesh-Nadkarni)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GANESH-NADKARNI)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-self-seven-65.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshnadkarni369@gmail.com)
@@ -64,7 +66,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 
 <div align="center">
 
@@ -167,6 +169,33 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 ---
 
+<!-- COMPETITIVE PROGRAMMING -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — Codeforces
+
+<div align="center">
+
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=GANESH_NADKARNI&theme=dark)](https://codeforces.com/profile/GANESH_NADKARNI)
+
+</div>
+
+---
+
+<!-- HUGGING FACE -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/> Hugging Face — Models, Datasets & Spaces
+
+<div align="center">
+
+[![Hugging Face](https://img.shields.io/badge/View_Full_Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ganesh-Nadkarni)
+
+| 🚀 Spaces | 🧠 Models |
+|---|---|
+| [Aqi Predictor Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Aqi-Predictor-Demo) — Predicts next-day AQI using XGBoost | [network-traffic-prediction](https://huggingface.co/Ganesh-Nadkarni/network-traffic-prediction) — Tabular Regression |
+| [Helmet Detection Demo](https://huggingface.co/spaces/Ganesh-Nadkarni/Helmet-Detection-Demo) — Detects helmets using a YOLOv8 model | [nl2sql-comparative-study-conit2026](https://huggingface.co/Ganesh-Nadkarni/nl2sql-comparative-study-conit2026) — Table Question Answering |
+
+</div>
+
+---
+
 <!-- STATS -->
 <!-- PROJECTS -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/> Featured Projects
@@ -222,6 +251,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Object Detection](https://img.shields.io/badge/Object_Detection-00FFFF?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **🗄️ Databases & DevOps**
 
@@ -304,6 +334,8 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-nadkarni-517a80326/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GANESH_NADKARNI/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ganesh-Nadkarni)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GANESH-NADKARNI)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-self-seven-65.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshnadkarni369@gmail.com)
