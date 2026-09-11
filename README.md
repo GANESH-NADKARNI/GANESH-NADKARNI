@@ -160,7 +160,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 </div>
 <div align="center">
 
-🔥 **400+ problems solved** &nbsp;|&nbsp; 190+ Easy &nbsp;·&nbsp; 200+ Medium &nbsp;·&nbsp; 20+ Hard &nbsp;|&nbsp; Max Streak: **180+ days** &nbsp;|&nbsp; 🏅 **100 Days Badge 2026**
+🔥 **500+ problems solved** &nbsp;|&nbsp; 200+ Easy &nbsp;·&nbsp; 200+ Medium &nbsp;·&nbsp; 20+ Hard &nbsp;|&nbsp; Max Streak: **200+ days** &nbsp;|&nbsp; 🏅 **200 Days Badge 2026**
 
 </div>
 
