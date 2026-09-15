@@ -153,12 +153,14 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — LeetCode
 
 <div align="center">
+[![LeetCode](https://img.shields.io/badge/View_Full_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GANESH_NADKARNI/)
 
 <img src="https://leetcard.jacoblin.cool/GANESH_NADKARNI?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" width="55%"/>
 
 
 </div>
 <div align="center">
+
 
 🔥 **500+ problems solved** &nbsp;|&nbsp; 200+ Easy &nbsp;·&nbsp; 200+ Medium &nbsp;·&nbsp; 20+ Hard &nbsp;|&nbsp; Max Streak: **200+ days** &nbsp;|&nbsp; 🏅 **200 Days Badge 2026**
 
@@ -173,6 +175,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> Competitive Programming — Codeforces
 
 <div align="center">
+[![Codeforces](https://img.shields.io/badge/View_Full_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
 
 [![Problems Solved](https://img.shields.io/badge/Problems_Solved-8-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
 [![Submissions](https://img.shields.io/badge/Submissions-11-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANESH_NADKARNI)
