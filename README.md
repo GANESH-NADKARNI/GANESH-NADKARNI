@@ -163,7 +163,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 <div align="center">
 
 
-🔥 **500+ problems solved** &nbsp;|&nbsp; 200+ Easy &nbsp;·&nbsp; 200+ Medium &nbsp;·&nbsp; 20+ Hard &nbsp;|&nbsp; Max Streak: **200+ days** &nbsp;|&nbsp; 🏅 **200 Days Badge 2026**
+🔥 **500+ problems solved** &nbsp;|&nbsp; 200+ Easy &nbsp;·&nbsp; 200+ Medium &nbsp;·&nbsp; 20+ Hard &nbsp;|&nbsp; Max Streak: **250+ days** &nbsp;|&nbsp; 🏅 **200 Days Badge 2026**
 
 </div>
 
@@ -340,7 +340,7 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 |---|---|---|
 | Letter of Appreciation — Technical Excellence & Innovation in AI/NLP | Dean (Academics), KLS Gogte Institute of Technology | 2025 |
 | Open Source Contributor — Documentation improvements via pull requests | Microsoft Open Source Projects | 2026 |
-| 400+ DSA Problems Solved, 180+ Day Coding Streak | LeetCode | Present |
+| 500+ DSA Problems Solved, 250+ Day Coding Streak | LeetCode | Present |
 | 🥇 Rank 1 — CodeBench: HateMirage (Target Identification of Hate Speech Comments) | Dept. of CSE (AI&ML), KLS Gogte Institute of Technology | 2026 |
 | 🥈 Rank 2 — CodeBench: HateMirage (Intent and Implication Generation of Hate Speech Comments) | Dept. of CSE (AI&ML), KLS Gogte Institute of Technology | 2026 |
 | ICPC Amritapuri Regionalist | ICPC | 2026 |
