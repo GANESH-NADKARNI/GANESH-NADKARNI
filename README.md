@@ -341,6 +341,9 @@ Ask Me About: FastAPI · PyTorch · Gemini API · Tensorflow
 | Letter of Appreciation — Technical Excellence & Innovation in AI/NLP | Dean (Academics), KLS Gogte Institute of Technology | 2025 |
 | Open Source Contributor — Documentation improvements via pull requests | Microsoft Open Source Projects | 2026 |
 | 400+ DSA Problems Solved, 180+ Day Coding Streak | LeetCode | Present |
+| 🥇 Rank 1 — CodeBench: HateMirage (Target Identification of Hate Speech Comments) | Dept. of CSE (AI&ML), KLS Gogte Institute of Technology | 2026 |
+| 🥈 Rank 2 — CodeBench: HateMirage (Intent and Implication Generation of Hate Speech Comments) | Dept. of CSE (AI&ML), KLS Gogte Institute of Technology | 2026 |
+| ICPC Amritapuri Regionalist | ICPC | 2026 |
 
 </div>
 
